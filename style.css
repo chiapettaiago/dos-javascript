@@ -1,0 +1,26 @@
+navbar {
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid #ffffff2e;
+    display: inline-flex;
+    width: 99%;
+}
+
+navbar h1 {
+    text-align: left;
+    margin-left: 2%;
+}
+
+navbar ul {
+    margin-left: 20%;
+    float: right;
+}
+
+navbar li {
+    list-style-type: none;
+    display: inline-flex;
+    margin-top: 9%;
+}
